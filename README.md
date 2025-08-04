@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Frontend+Dev+%7C+React+Enthusiast;Learning+Daily;Open+To+Work;" alt="Typing SVG" />
 </div>
 
-- 📫 How to reach me :- devesh10607@gmail.com
+
 ---
 
 ## 🧠 About Me
@@ -16,7 +16,7 @@
 - 🌱 Learning **React.js**, **Node.js**, and **Python**
 - 🛠️ Love building things with **JavaScript** and making UIs with **Tailwind CSS**
 - 🌍 Dreaming of traveling the world while coding cool stuff
-
+- 📫 How to reach me :- devesh10607@gmail.com
 ---
 
 
