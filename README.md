@@ -31,9 +31,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devesh-NEMO&theme=react" />
 </div>
 ---
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Devesh-nemo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
 [![](https://visitcount.itsvg.in/api?id=Devesh-nemo&icon=0&color=0)](https://visitcount.itsvg.in)
 
