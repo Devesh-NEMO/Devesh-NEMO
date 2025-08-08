@@ -30,7 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Devesh-NEMO&show_icons=true&theme=react&hide=contribs&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devesh-NEMO&theme=react" />
 </div>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Devesh-nemo)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Devesh-nemo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
